@@ -17,8 +17,8 @@
 
 Встановлення відбувається через механізм Autoloader, що не вимагає постійного ручного підвантаження.
 
-1. Завантажте папку `DstuTables.bundle` з цього репозиторію (через Code -> Download ZIP).
-2. Розпакуйте архів та скопіюйте папку `DstuTables.bundle` за одним із шляхів:
+1. Завантажте папку `Oles_Civil_up.bundle` з цього репозиторію (через Code -> Download ZIP).
+2. Розпакуйте архів та скопіюйте папку `Oles_Civil_up.bundle` за одним із шляхів:
    - Тільки для вашого користувача Windows: `%appdata%\Autodesk\ApplicationPlugins`
    - Для всіх користувачів комп'ютера: `C:\ProgramData\Autodesk\ApplicationPlugins`
 3. Перезапустіть Civil 3D.
