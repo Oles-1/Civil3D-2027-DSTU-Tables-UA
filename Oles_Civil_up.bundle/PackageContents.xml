@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage 
+    SchemaVersion="1.0" 
+    AppVersion="1.0.0" 
+    Author="Oles" 
+    Name="Таблиці ДСТУ 2008" 
+    Description="Автоматична побудова відомостей кутів повороту">
+
+    <Components>
+        <RuntimeRequirements OS="Win64" Platform="Civil3D|AutoCAD" SeriesMin="R24.0" SeriesMax="R32.0" />
+        
+        <ComponentEntry 
+            AppName="DSTU_TABLE_Oles" 
+            Version="1.0.0" 
+            ModuleName="./Contents/DSTU_TABLE_Oles.dll" 
+            LoadOnAutoCADStartup="True">
+        </ComponentEntry>
+    </Components>
+
+</ApplicationPackage>
