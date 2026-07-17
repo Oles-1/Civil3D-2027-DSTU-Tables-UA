@@ -5,6 +5,7 @@ using Autodesk.AutoCAD.EditorInput;
 using Autodesk.AutoCAD.Runtime;
 using Autodesk.Civil.DatabaseServices;
 using Exception = System.Exception;
+using Application = Autodesk.AutoCAD.ApplicationServices.Core.Application;
 
 namespace CivilDstuTable
 {

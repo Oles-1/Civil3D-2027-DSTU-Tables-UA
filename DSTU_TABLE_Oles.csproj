@@ -6,6 +6,7 @@
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<UseWPF>true</UseWPF>
+		<UseWindowsForms>true</UseWindowsForms>
 		<NoWarn>$(NoWarn);MSB3277;CA1416</NoWarn>
 	</PropertyGroup>
 
